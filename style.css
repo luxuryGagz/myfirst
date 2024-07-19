@@ -1,0 +1,26 @@
+h1{
+    color: green;
+    background-color: blue;
+}
+body{
+    background-color: yellow;
+}
+p{
+    color: red;
+}
+.y{
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+table{
+    border: solid blue 2px;
+
+}
+
+#y{
+    background-color: red;
+}
+
